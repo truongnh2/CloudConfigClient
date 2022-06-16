@@ -17,4 +17,5 @@ public class Minio {
 	private String urlMinio;
 	private String bucket;
 	private String urlFileUpload;
+	private String objectName;
 }
